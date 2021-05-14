@@ -39,8 +39,8 @@
   "libVersion": "2.2.5",
   "appid": "wx901993548a124001",
   "projectname": "MeGoYI",
-  "miniprogramRoot": "miniprogram/",  // 小程序页面
-  "cloudfunctionRoot": "cloudfunction/", // 云函数文件名设置
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "cloudfunction/",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
   "condition": {
